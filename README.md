@@ -15,7 +15,7 @@
 Ниже пример сгенерированных данных из csv:
 ![image](https://github.com/denis6715/activity_schema_mfo/assets/94977703/f089716c-1212-4ed7-96bc-e78a8ff022d6)
 
-Ниже пример сгенрированных признаков (features):
+Ниже пример сгенрированного json с признаками (features):
 
 ![image](https://github.com/denis6715/activity_schema_mfo/assets/94977703/a42d57b5-93aa-4e80-9303-883d0818eba7)
 
